@@ -39,4 +39,4 @@ jobs:
           app-name: 'func-nakashimashin-linebot-handson-21'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D6E35C30A684895B8DB248840B12984 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B951BF6ABF6D4D6D918423B5DFDF29BC }}
